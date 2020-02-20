@@ -1,0 +1,27 @@
+{
+  "name": "rainbow-material-theme",
+  "displayName": "Rainbow Material Theme",
+  "description": "An enhanced, more vibrant version of Material Theme",
+  "author": "Yasmin Green",
+	"publisher": "yasgreen93",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"Material Theme",
+		"Rainbow"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rainbow Material Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rainbow-material-theme.json"
+      }
+    ]
+  }
+}
