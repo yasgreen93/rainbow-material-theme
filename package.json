@@ -3,8 +3,8 @@
   "displayName": "Rainbow Material Theme",
   "description": "An enhanced, more vibrant version of Material Theme",
   "author": "Yasmin Green",
-	"publisher": "yasgreen93",
-  "version": "0.0.1",
+  "publisher": "yasgreen93",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.42.0"
   },
@@ -12,9 +12,9 @@
     "Themes"
   ],
   "keywords": [
-		"Material Theme",
-		"Rainbow"
-	],
+    "Material Theme",
+    "Rainbow"
+  ],
   "contributes": {
     "themes": [
       {
