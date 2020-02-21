@@ -9,16 +9,16 @@ Syntax colours have been enhanced slightly to be more vibrant with more contrast
 ## Screenshots
 
 ### HTML
-![HTMl Example](https://github.com/yasgreen93/rainbow-material-theme/blob/master/html.jpg)
+![HTMl Example](https://vscode-theme-images.s3.amazonaws.com/html.jpg)
 
 ### CSS
-![CSS Example](https://github.com/yasgreen93/rainbow-material-theme/blob/master/css.jpg)
+![CSS Example](https://vscode-theme-images.s3.amazonaws.com/css.jpg)
 
 ### Javascript
-![Javascript Example](https://github.com/yasgreen93/rainbow-material-theme/blob/master/javascript.jpg)
+![Javascript Example](https://vscode-theme-images.s3.amazonaws.com/javascript.jpg)
 
 ### JSON
-![JSON Example](https://github.com/yasgreen93/rainbow-material-theme/blob/master/json.jpg)
+![JSON Example](https://vscode-theme-images.s3.amazonaws.com/json.jpg)
 
 ---
 

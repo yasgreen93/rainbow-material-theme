@@ -1,27 +1,36 @@
 {
-  "name": "rainbow-material-theme",
-  "displayName": "Rainbow Material Theme",
-  "description": "An enhanced, more vibrant version of Material Theme",
-  "author": "Yasmin Green",
-  "publisher": "yasgreen93",
-  "version": "0.2.0",
-  "engines": {
-    "vscode": "^1.42.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "Material Theme",
-    "Rainbow"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Rainbow Material Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rainbow-material-theme.json"
-      }
-    ]
-  }
+	"name": "rainbow-material-theme",
+	"displayName": "Rainbow Material Theme",
+	"description": "An enhanced, more vibrant version of Material Theme",
+	"author": "Yasmin Green",
+	"publisher": "yasgreen93",
+	"version": "0.2.0",
+	"engines": {
+		"vscode": "^1.42.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yasgreen93/rainbow-material-theme"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Material Theme",
+		"Rainbow"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Rainbow Material Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/rainbow-material-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0053d06b-d7ec-4882-8979-ef01f7eb5e6d",
+		"publisherDisplayName": "yasgreen93",
+		"publisherId": "979e4c6c-58ed-406a-bd67-f4d23283187e"
+	}
 }
