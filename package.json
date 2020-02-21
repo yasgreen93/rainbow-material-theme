@@ -4,7 +4,7 @@
 	"description": "An enhanced, more vibrant version of Material Theme",
 	"author": "Yasmin Green",
 	"publisher": "yasgreen93",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
